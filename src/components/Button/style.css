@@ -1,0 +1,15 @@
+button {
+    padding: 15px;
+    margin: 5px;
+    background-color: #54B9B5;
+    color: white;
+    border-radius: 1em;
+    border: 1px solid black;
+    font-weight: bold;
+    width: 150px;
+    outline:none;
+}
+
+button:hover {
+    background-color: rgb(90, 145, 153);
+}
